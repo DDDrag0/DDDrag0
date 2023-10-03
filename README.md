@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p>I am Michele, a young Java Developer but still, i know some of other Programming languages like C, R and a little bit of Python, PHP and  C++.</p>
+<p>I have a strong interest on decompilation and reverse Engineering, also I am studying as self-taught how the JVM works and I am learning how to work with it.</p>
+<p>My other interests are gaming, drawing, and dismantle things (like the games that I play).</p>
+
+
 <!--
 **DDDrag0/DDDrag0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
