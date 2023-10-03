@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<p>I am Michele, a young Java Developer but still, i know some of other Programming languages like C, R and a little bit of Python, PHP and  C++.</p>
-<p>I have a strong interest on decompilation and reverse Engineering, also I am studying as self-taught how the JVM works and I am learning how to work with it.</p>
-<p>My other interests are gaming, drawing, and dismantle things (like the games that I play).</p>
+<p>I'm Michele, a young Java Developer, but I also have knowledge of other programming languages such as C, R, and a little bit of Python, PHP, and C++.</p>
+
+<p>I have a strong interest in decompilation and reverse engineering. Additionally, I'm studying how the JVM (Java Virtual Machine) works and how to work with it on my own.</p>
+
+<p>My other interests include gaming, drawing, and dismantling things, like the games I play.</p>
 
 
 <!--
