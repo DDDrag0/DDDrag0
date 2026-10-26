@@ -17,7 +17,7 @@ I'm Michele, a Software Developer and Computer Science graduate at the **Univers
 
 | Project / Repository | Target Game / Context | Core Stack | Description |
 | :--- | :--- | :--- | :--- |
-| **Blasphemous Seamless Mod** | *Blasphemous* | `C#` | Co-op mod inspired by LukeYui's famous Seamless Co-op. It builds upon and expands the original multiplayer mod framework by [BrandenEK](https://github.com/BrandenEK/Blasphemous.Multiplayer), focusing on stability and fixing player desynchronization issues. |
+| **[Blasphemous Seamless Mod](https://github.com/DDDrag0/Blasphemous-Seamless)** | *Blasphemous* | `C#` | Co-op mod inspired by LukeYui's famous Seamless Co-op. It builds upon and expands the original multiplayer mod framework by [BrandenEK](https://github.com/BrandenEK/Blasphemous.Multiplayer), focusing on stability and fixing player desynchronization issues. |
 | **[RiseToRuins-Modloader](https://github.com/DDDrag0/RtRModLoader)** | *Rise to Ruins* | `Java` | Non-intrusive, lightweight mod loader built to dynamically patch and extend game systems. |
 
 ---
